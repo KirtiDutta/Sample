@@ -1,5 +1,23 @@
 {
   "dependencies": {
-    "@babel/helper-create-class-features-plugin": "^7.17.6"
-  }
+    "@babel/helper-create-class-features-plugin": "^7.17.6",
+    "express": "^4.17.3"
+  },
+  "name": "bookzone",
+  "version": "1.0.0",
+  "description": "Books Buy/Sell Website",
+  "main": "server.js",
+  "scripts": {
+    "start": "node backend/server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KirtiDutta/Sample.git"
+  },
+  "author": "Kirti Dutta",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/KirtiDutta/Sample/issues"
+  },
+  "homepage": "https://github.com/KirtiDutta/Sample#readme"
 }
