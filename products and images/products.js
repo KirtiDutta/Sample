@@ -1,4 +1,4 @@
-const proproduct = [
+const products = [
     {
         _id: '1',
         name: 'book1',
@@ -10,6 +10,7 @@ const proproduct = [
         countInStock: '10',
         rating: '4.5',
         numReviews: '4',
+        author: 'Madeline Miller'
 
     },
     {
@@ -23,6 +24,7 @@ const proproduct = [
         countInStock: '20',
         rating: '4',
         numReviews: '3',
+        author: 'Collen Hoover'
     },
     {
         _id: '3',
@@ -35,6 +37,7 @@ const proproduct = [
         countInStock: '10',
         rating: '4.5',
         numReviews: '4',
+        author: 'Savi Sharma'
     },
     {
         _id: '4',
@@ -47,6 +50,7 @@ const proproduct = [
         countInStock: '5',
         rating: '4.5',
         numReviews: '4',
+        author: 'Joshua Henkin'
     },
     {
         _id: '5',
@@ -59,6 +63,7 @@ const proproduct = [
         countInStock: '6',
         rating: '4.5',
         numReviews: '4',
+        author: 'Alex Light'
     },
     {
         _id: '6',
@@ -71,5 +76,6 @@ const proproduct = [
         countInStock: '3',
         rating: '4.5',
         numReviews: '4',
+        author: 'Collen Hoover'
     }
 ]

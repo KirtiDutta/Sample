@@ -9,7 +9,7 @@ const products = [
         countInStock: 5,
         rating: '4.5',
         numReviews: '4',
-        auther: 'Madeline Miller'
+        author: 'Madeline Miller'
 
     },
     {
@@ -22,7 +22,7 @@ const products = [
         countInStock: 20,
         rating: '4',
         numReviews: '3',
-        auther: 'Collen Hoover'
+        author: 'Collen Hoover'
 
     },
     {
@@ -35,7 +35,7 @@ const products = [
         countInStock: 10,
         rating: '4.5',
         numReviews: '4',
-        auther: 'Savi Sharma'
+        author: 'Savi Sharma'
     },
     {
          name: 'The World Without You',
@@ -47,7 +47,7 @@ const products = [
         countInStock: 5,
         rating: '4.5',
         numReviews: '4',
-        auther: 'Joshua Henkin'
+        author: 'Joshua Henkin'
     },
     {
         name: 'The Upside Of Falling',
@@ -59,7 +59,7 @@ const products = [
         countInStock: 6,
         rating: '4.5',
         numReviews: '4',
-        auther: 'Alex Light'
+        author: 'Alex Light'
     },
     {
         name: 'Ugly Love',
@@ -71,7 +71,7 @@ const products = [
         countInStock: 3,
         rating: '4.5',
         numReviews: '4',
-        auther: 'Collen Hoover'
+        author: 'Collen Hoover'
     }
 ]
 export default products

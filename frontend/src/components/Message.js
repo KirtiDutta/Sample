@@ -2,13 +2,13 @@
 import React from 'react'
 import { Alert } from 'react-bootstrap'
 
-const Message = ({varient, children}) =>{
-    return <Alert varient = {varient}>
+const Message = ({variant, children}) =>{
+    return <Alert variant = {variant}>
         {children}
     </Alert>
 }
 Message.defaultProps = {
-    varient: 'info'   //blue color varient
+    variant: 'info'   //blue color varient
 }
 
 export default Message
